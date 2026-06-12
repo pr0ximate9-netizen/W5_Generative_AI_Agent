@@ -1,5 +1,0 @@
-__pycache__/
-*.pyc
-.env
-seatwise_state*.json
-seatwise_report*.txt
